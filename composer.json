@@ -1,0 +1,8 @@
+{
+  "name": "langdonglei/util",
+  "autoload": {
+    "psr-4": {
+      "langdonglei\\dl_util\\": "src"
+    }
+  }
+}
