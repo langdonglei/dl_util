@@ -1,6 +1,5 @@
 {
-  "minimum-stability": "dev",
-  "name": "langdonglei/util",
+  "name": "langdonglei/dl_util",
   "autoload": {
     "psr-4": {
       "langdonglei\\dl_util\\": "src"
